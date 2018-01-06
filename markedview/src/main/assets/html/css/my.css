@@ -1,0 +1,59 @@
+/* 背景色-适配屏幕 */
+body {
+    background-color: #212B30;
+    word-wrap:break-word;
+    font-family:Arial;
+    font-size: 16px;
+}
+
+/* 图片 */
+img {
+    max-width: 100%;
+    display:block;
+    margin:0 auto;
+}
+
+em{
+    text-decoration: underline;
+    text-align: center;
+    width: 100%;
+    min-height: 22px;
+    display: inline-block;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #969696;
+    line-height: 1.5;
+}
+
+/* black_blue */
+h1{
+    font-size: 25px;
+    color: #3e8ea9;
+    text-align:center;
+}
+h2{
+    color: #969696;
+    font-size: 22px;
+}
+h3,h4,h5,h6{
+    color: #969696;
+    font-size: 18px;
+}
+
+p { color: #A1A4A5; }
+
+li{ color: #A1A4A5; }
+
+/* red b */
+strong { color: #ab3533;}
+
+/* 引用 */
+blockquote{
+    border-color: #E48B7B;
+}
+
+/* 引用下的文字 */
+blockquote p{
+    color: #DB653D;
+}
+

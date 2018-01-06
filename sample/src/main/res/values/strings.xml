@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarkedViewLib</string>
+    <string name="load_file">Load file</string>
+    <string name="live_rendering">Live rendering</string>
+</resources>
